@@ -43,6 +43,10 @@ CRM records often arrive with just a name and an email. This prototype models th
 
 ![Enriched records with confidence (demo engine)](assets/00-dashboard.png)
 
+**Enrichment sources and test enrichment (demo engine)**
+
+![Enrichment sources and test enrichment (demo engine)](assets/10-sources.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
