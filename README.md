@@ -39,6 +39,8 @@ CRM records often arrive with just a name and an email. This prototype models th
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Enriched records with confidence (demo engine)**
 
 ![Enriched records with confidence (demo engine)](assets/00-dashboard.png)
